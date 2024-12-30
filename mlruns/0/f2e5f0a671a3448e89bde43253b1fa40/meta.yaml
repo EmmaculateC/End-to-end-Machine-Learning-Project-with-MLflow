@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlprojects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/f2e5f0a671a3448e89bde43253b1fa40/artifacts
+end_time: 1735524778900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2e5f0a671a3448e89bde43253b1fa40
+run_name: adventurous-goat-872
+run_uuid: f2e5f0a671a3448e89bde43253b1fa40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735524746898
+status: 3
+tags: []
+user_id: User

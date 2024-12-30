@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlprojects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/bf3f5f0c74924bcba2f63fee472ac876/artifacts
+end_time: 1735525926127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf3f5f0c74924bcba2f63fee472ac876
+run_name: bright-pug-317
+run_uuid: bf3f5f0c74924bcba2f63fee472ac876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735525898487
+status: 3
+tags: []
+user_id: User
